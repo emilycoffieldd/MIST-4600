@@ -1,5 +1,7 @@
 # MIST-4600
 
+Akrem Abdulkadir, Ryan Alford, Emily Coffield, & Tanvi Keshwani
+
 # Project Objective
 
 Our project intention was to simulate a real world business in the form of classes and subclasses, modeled and stored in different data types.
